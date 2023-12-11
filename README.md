@@ -7,4 +7,4 @@ Em nosso espaço dedicado ao cuidado dos animais de estimação, a Clínica Vete
 -CSS 3<br>
 -JAVASCRIPT<br>
 <h4>Link do projecto<h4>
-https://github.com/TeixeiraManuel/
+https://teixeiramanuel.github.io/Petcare/
