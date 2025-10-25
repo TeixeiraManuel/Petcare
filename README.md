@@ -9,4 +9,3 @@ Em nosso espaço dedicado ao cuidado dos animais de estimação, a Clínica Vete
 <h4>Link do projecto<h4>
 https://teixeiramanuel.github.io/Petcare/
 
-https://www.reddit.com/r/wallpaper/comments/cawjap/digital_art_3840_x_2160/
